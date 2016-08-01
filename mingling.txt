@@ -1,0 +1,10 @@
+git status 检查提交
+git add 添加文件
+git commit 提交文件
+git diff查看修改
+git log 历史记录查询
+git log --pretty=oneline  简短历史记录查询
+git reset --hard head^  “^代表几个版本”
+git reflog 查看回滚前版本号
+git reset --hard “版本号” 回到当时版本
+
